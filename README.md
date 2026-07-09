@@ -83,9 +83,9 @@ AI chat interface with real-time responses, chat history, and React Context API 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanali0805&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanali0805&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanali0805&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanali0805&layout=compact&hide_border=true&theme=dark&bg_color=0d1117" height="150" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ AI chat interface with real-time responses, chat history, and React Context API 
 ## Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/usmanali0805/usmanali0805/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+  <img src="https://raw.githubusercontent.com/usmanali0805/usmanali0805/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 </p>
 
 ---
@@ -102,19 +102,15 @@ AI chat interface with real-time responses, chat history, and React Context API 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usmanali0805">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
+  &nbsp;
   <a href="https://github.com/usmanali0805">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
+  &nbsp;
   <a href="mailto:usman.ali08052005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.rozee.pk">
-    <img src="https://img.shields.io/badge/Rozee.pk-Profile-2E8B57?style=for-the-badge&logo=briefcase&logoColor=white" />
-  </a>
-  <a href="https://www.indeed.com">
-    <img src="https://img.shields.io/badge/Indeed-Profile-2164F3?style=for-the-badge&logo=indeed&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
 </p>
 
