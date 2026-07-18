@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Muhammad Usman Ali 👋</h1>
+<h1 align="center">
+  Hi, I'm Muhammad Usman Ali
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
+
 <p align="center">
-  <b>Full Stack Developer</b> · MERN · PERN · React.js · Node.js · Supabase
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%C2%B7+PERN+Stack;React.js+%C2%B7+Node.js+%C2%B7+Supabase" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +32,7 @@ I build end-to-end web applications — from responsive React.js frontends to sc
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,mongodb,postgres,supabase,redis,docker,aws,git,github,postman,firebase,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,nodejs,express,mongodb,postgres,supabase,redis,docker,aws,npm,figma,git,github,postman,firebase,vercel,vscode" />
 </p>
 
 **AI Tools**
@@ -111,6 +115,10 @@ AI chat interface with real-time responses, chat history, and React Context API 
   &nbsp;
   <a href="mailto:usman.ali08052005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://www.indeed.com">
+    <img src="https://img.shields.io/badge/%E2%80%8B-2164F3?style=for-the-badge&logo=indeed&logoColor=white" height="48" />
   </a>
 </p>
 
